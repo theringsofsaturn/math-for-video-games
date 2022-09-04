@@ -4,7 +4,7 @@
 
 
 
-## Topics
+## Notes about
 
 ### Arithmetics: 
 - addition, subtraction, multiplication, division, rounding, remainders, factorials, number bases, logarithms, binary and hex, gradients, rates of change etc.
